@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: haebyun/config-server
+  IMAGE_NAME: haebyun/config-service
   VERSION: latest
 
 jobs:
